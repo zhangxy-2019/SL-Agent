@@ -1,13 +1,17 @@
 # SL-Agent: Self-Learning Framework for Task-Oriented Dialog Systems
 
+[![Paper](https://img.shields.io/badge/Paper-ACL%20Anthology-blue)](https://aclanthology.org/2022.sigdial-1.49/)
+[![Code](https://img.shields.io/badge/Code-Github-brightgreen)](https://github.com/zhangxy-2019/sl_soloist)
+
 ## Overview
-SL-Agent is an efficient self-learning framework for building end-to-end task-oriented dialog systems that can automatically adapt to changing environments through human-bot interactions.
+SL-Agent is an innovative framework that enables **continuous self-improvement** of task-oriented dialog systems through **unsupervised learning** from human-bot interactions. The system automatically adapts to new environments and handles out-of-distribution samples without requiring extensive human annotations.
 
 ## Key Features
-- Self-learning capability from unlabeled dialog logs
-- Reinforcement learning with pre-trained reward model
-- Automatic adaptation to out-of-distribution samples
-- Supports continuous improvement after deployment
+✔ **Self-learning architecture** - Learns from unlabeled dialog logs  
+✔ **Hybrid learning approach** - Combines reinforcement learning with pre-trained reward models  
+✔ **Environment adaptation** - Dynamically adjusts to changing conversational contexts  
+✔ **Deployment-ready** - Supports continuous improvement in production environments  
+✔ **Proven effectiveness** - Validated on multiple dialog tasks through human evaluations  
 
 ## Repository Location
 ⚠️ **Note**: The code has been moved to our public repository:  
