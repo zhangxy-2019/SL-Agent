@@ -1,4 +1,4 @@
-# Toward Self-Learning End-to-End Task-oriented Dialog Systems
+# Toward Self-Learning End-to-End Task-oriented Dialog Systems with REINFORCE Algorithm
 
 [![Paper](https://img.shields.io/badge/Paper-ACL%20Anthology-blue)](https://aclanthology.org/2022.sigdial-1.49/)
 [![Code](https://img.shields.io/badge/Code-Github-brightgreen)](https://github.com/zhangxy-2019/sl_soloist)
